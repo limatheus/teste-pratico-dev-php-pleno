@@ -22,8 +22,8 @@ Você deve criar um gerenciador financeiro simples conforme os requisitos abaixo
 - CRUD de categorias para os lancamento relacionado ao usuário e lançamento realizado
 - Todas as listagens devem possuir busca e paginação de 20 items
 - API autenticada contendo busca e listagem de todas as entidades
-- Ao cadastrar uma despesa, um email deverá ser enviado ao usuário
-- O email deverá ter o título "Despesa cadastrada" e ser enviado de forma assíncrona (utilizar MailTrap)
+- Enviar um email forma assíncrona (utilizar MailTrap) com 24h de antecedência informando ao usuário as despesas que irã
+o vencer no próximo dia
 
 ### Exemplos de entidades
 **Receita**
