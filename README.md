@@ -21,7 +21,7 @@ Você deve criar um gerenciador financeiro simples conforme os requisitos abaixo
 - CRUD de lançamentos de *despesas* (saidas) relacionado com o usuário logado
 - CRUD de categorias para os lancamento relacionado ao usuário e lançamento realizado
 - Todas as listagens devem possuir busca e paginação de 20 items
-- API deverá conter uma busca com filtro, listagem de todas as entidades
+- API autenticada contendo busca e listagem de todas as entidades
 - Ao cadastrar uma despesa, um email deverá ser enviado ao usuário
 - O email deverá ter o título "Despesa cadastrada" e ser enviado de forma assíncrona (utilizar MailTrap)
 
