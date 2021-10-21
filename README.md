@@ -17,8 +17,8 @@ O propósito deste teste é apenas avaliar o conhecimento em programação do ca
 Você deve criar um gerenciador financeiro simples conforme os requisitos abaixo, utilizar o framework Laravel (versão 8). Fique a vontade para explorar todo o seu conhecimento em automação de tarefas, CSS e Javascript com JQuery, Vue.JS, AlpineJS ou qualquer outra ferramenta que lhe torne produtivo.
 
 - Autenticação por login e senha
-- CRUD de lançamentos de *receitas* (entrada) relacionado com o usuário logado
-- CRUD de lançamentos de *despesas* (saidas) relacionado com o usuário logado
+- CRUD de lançamentos de **receitas** (entrada) relacionado com o usuário logado
+- CRUD de lançamentos de **despesas** (saidas) relacionado com o usuário logado
 - CRUD de categorias para os lancamento relacionado ao usuário e lançamento realizado
 - Todas as listagens devem possuir busca e paginação de 20 items
 - API autenticada contendo busca e listagem de todas as entidades
@@ -66,4 +66,5 @@ Não precisa ser complexo, com varias lib’s e etc. O interessante é usar o ne
 Lembrando código de qualidade, você pode e deve fazer o que achar necessário para isso, mesmo que não esteja listado aqui.
 
 ### Conclusão
-Após concluir a aplicação basta enviar o link do projeto no github ou bitbucket através do Whatsapp
+- O prazo de desenvolvimento é de **7 dias**
+- Após concluir a aplicação basta enviar o link do projeto no github ou bitbucket através do Whatsapp
